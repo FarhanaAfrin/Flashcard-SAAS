@@ -3,3 +3,4 @@ gitignore
 .next
 npm
 .env.local
+.vercel
